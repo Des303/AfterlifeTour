@@ -2,6 +2,7 @@ body {
     background-image: url("../images/websitebackground.jpg");
     background-repeat: no-repeat; 
     background-size: 100%;
+    cursor: url("../images/skeletonMouse.png"),auto; 
    }
 div{
     text-align:center
@@ -33,13 +34,16 @@ div{
   } 
 
 #footer {
-    position:absolute;
-    bottom:100%;
-    left: 100%;
-    width:100%;
-    height:20px; 
-    background:rgb(95, 95, 95);
+    position:fixed;
+    padding: 5px 10px 10px 10px;
+    bottom:0%;
+    left: 0;
+    width: 100%;;
+    height: 15px; 
+    background:rgb(0, 0, 0);
     font-family: 'Dokdo', cursive;
+    font-size: large;
+    color: azure;
  }
 
  h1 {
