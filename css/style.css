@@ -28,10 +28,30 @@ div{
 
   }
 
-  img {
+  .angelWings {
+    width: 400px;
+    height: 400px; 
+  }
+
+  .devilWings {
+    width: 400px;
+    height: 400px; 
+  }
+
+  .cloudText {
     width: 300px;
-    height: 300px;
-  } 
+    height: 100px; 
+  }
+
+  .fireText {
+    width: 300px;
+    height: 100px; 
+  }
+
+  .otherEye{
+    width: 300px;
+    height: 100px; 
+  }
 
 #footer {
     position:fixed;
@@ -62,4 +82,3 @@ div{
     font-family: 'Neucha', cursive;
   }
 
- 
