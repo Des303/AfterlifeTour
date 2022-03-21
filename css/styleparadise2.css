@@ -1,0 +1,10 @@
+h1 {
+    border: rgb(25, 41, 73) 3px solid;
+    background-color: rgb(159, 214, 221);
+    font-family: 'Inspiration', cursive; 
+} 
+body {
+    background-image: url("../images/heavenplaceholderimage.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100%;
+   }

@@ -1,0 +1,34 @@
+body {
+    background-image: url("../images/crazyfire.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+   }
+   p {
+    margin: 250px;
+    font-family: 'Megrim', cursive; 
+    font-size: 30px;
+    color: rgb(255, 228, 74);
+}
+h1 {
+font-family: 'Megrim', cursive;
+ font-size: 60px;
+ color: rgb(255, 228, 74);
+}
+
+a:link {
+color: rgb(255, 228, 74);
+ background-color: transparent;
+ text-decoration: none;
+}
+
+a:hover {
+color: rgb(255, 228, 74);
+ background-color: transparent;
+ text-decoration: underline;
+}
+
+a:visited {
+color: rgb(255, 228, 74);
+ background-color: transparent;
+ text-decoration: none;
+}

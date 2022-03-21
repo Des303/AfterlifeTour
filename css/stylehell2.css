@@ -1,0 +1,10 @@
+h1 {
+    border: rgb(0, 0, 0) 3px solid;
+    background-color: rgb(255, 196, 0);
+    font-family: 'Megrim', cursive;
+} 
+body {
+    background-image: url("../images/hellplaceholderimage.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100%;
+   }
