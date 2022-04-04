@@ -1,10 +1,16 @@
 h1 {
     border: rgb(25, 41, 73) 3px solid;
-    background-color: rgb(159, 214, 221);
+    background-color: rgb(207, 236, 240);
     font-family: 'Inspiration', cursive; 
+    font-size: 40px;
+    letter-spacing: 6px;
 } 
 body {
-    background-image: url("../images/heavenplaceholderimage.jpg");
-    background-repeat: no-repeat; 
+    background-image: url("../images/heavenbackground.jpg");
+    background-repeat: repeat; 
     background-size: 100%;
    }
+p {
+    font-family: 'Inspiration', cursive; 
+    font-size: xx-large;
+}
