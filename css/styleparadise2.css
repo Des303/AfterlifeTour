@@ -14,3 +14,9 @@ p {
     font-family: 'Inspiration', cursive; 
     font-size: xx-large;
 }
+
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}

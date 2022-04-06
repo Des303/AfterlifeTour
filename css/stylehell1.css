@@ -8,6 +8,8 @@ body {
     font-family: 'Megrim', cursive; 
     font-size: 30px;
     color: rgb(255, 228, 74);
+    text-shadow: -1px -1px 0 rgb(255, 230, 0), 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+
 }
 h1 {
 font-family: 'Megrim', cursive;
