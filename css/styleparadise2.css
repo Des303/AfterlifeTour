@@ -16,7 +16,7 @@ p {
 }
 
 a:link {
-    color: rgb(0, 0, 0);
+    color: rgb(91, 146, 248);
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: border;
 }
